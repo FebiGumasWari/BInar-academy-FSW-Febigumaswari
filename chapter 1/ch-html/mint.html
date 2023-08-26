@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>febi gumas</title>
+    <style>
+      body {
+        background: rgb(4, 90, 105);
+      }
+      .container {
+        background: brown;
+        height: 500px;
+        padding: 16px;
+        display: flex;
+        /* flex-direction: column-reverse;*/
+        /* align-content: space-around;*/
+      }
+      .item {
+        background: yellow;
+        color: black;
+        padding: 5px 20px;
+        border: 1px solid black;
+        /* width: 20%; */
+      }
+      .item1 {
+        flex-basis: 50%;
+      }
+      .item2 {
+        flex: 2px;
+        flex-direction: row;
+      }
+      /* .item3 {
+        flex-shrink: 1;
+      }
+      .item4 {
+        flex-shrink: 1;
+      } */
+    </style>
+  </head>
+  <body>
+    <h2>1. FlexBox</h2>
+    <div class="container">
+      <div class="item item1">Item 1</div>
+      <div class="item item2">Item 2</div>
+      <div class="item item3">Item 3</div>
+      <div class="item item4">Item 4</div>
+
+      <!-- <div class="item">Item 5</div>
+      <div class="item">Item 6</div>
+      <div class="item">Item 7</div>
+      <div class="item">Item 8</div>
+      <div class="item">Item 9</div>
+      <div class="item">Item 10</div> -->
+    </div>
+  </body>
+</html>
