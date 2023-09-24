@@ -51,12 +51,12 @@ Berikut adalah daftar endpoint yang tersedia dalam proyek ini:
 4. **POST `/cars`**
    - Deskripsi: Endpoint ini digunakan untuk menambahkan data mobil baru.
    - Contoh Penggunaan: `http://localhost:8000/cars`
-     note: ID tidak wajib di masukan data karena sudah genarator menggunakan UUID
+   - note: ID tidak wajib di masukan data karena sudah genarator menggunakan UUID
 
 5. **PUT `/cars/:id`**
    - Deskripsi: Endpoint ini digunakan untuk mengupdate data mobil berdasarkan ID.
    - Contoh Penggunaan: `http://localhost:8000/cars/1`
-     note: id, image, capacity, rentPerDay,description, availableAt wajib sekali dimasukan data untuk update data
+   - note: id, image, capacity, rentPerDay,description, availableAt wajib sekali dimasukan data untuk update data
 
 6. DELETE `/cars/:id`
    - Deskripsi: Endpoint ini digunakan untuk menghapus data mobil berdasarkan ID.
