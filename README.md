@@ -28,7 +28,7 @@ Pada tantangan ketiga, saya membangun sebuah server HTTP dengan menggunakan Node
 
 ### File Terkait
 - `server.js`: File JavaScript untuk mengatur server Express.
-- `routes.js`: File JavaScript untuk mendefinisikan endpoint-endpoint API.
+- `Middlewares.js`: Middleware ini digunakan untuk memvalidasi ID, mencari data mobil berdasarkan ID, dan menambahkan data mobil ke dalam permintaan.
 - `data.js`: File JavaScript untuk menyimpan data mobil.
 
 ## Cara Menjalankan Proyek
