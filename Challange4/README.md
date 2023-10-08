@@ -2,7 +2,7 @@
 
 ### ERD Database
 
-![ERD Database](Challange4/data/ERD.png)
+![ERD Database]([Challange4/data/ERD.png](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange4/data/ERD.png))
 
 ## Application Installation
 
