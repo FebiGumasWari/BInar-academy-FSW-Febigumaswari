@@ -14,7 +14,7 @@ http://localhost:8000/api-docs/
 
 ### ERD Database
 
-![ERD Database]([https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange4/data/ERD.png](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange5/public/IMG/ERDCH5.png))
+![ERD Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange5/public/IMG/ERDCH5.png)
 
 Before you can run this application, make sure you have installed the following components:
 
