@@ -12,6 +12,10 @@ superadmin123
 http://localhost:8000/api-docs/
 ```
 
+### ERD Database
+
+![ERD Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange4/data/ERD.png)
+
 Before you can run this application, make sure you have installed the following components:
 
 - Node.js: [https://nodejs.org/](https://nodejs.org/)
