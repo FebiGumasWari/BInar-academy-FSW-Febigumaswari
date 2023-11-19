@@ -22,12 +22,12 @@ Saya Sudah Bikin Database Dan Sudah Migration Databasenya
 
 ### migration Pakai postgresql
 
-![Database]()
+![Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange7/back-end/IMG/Ss%20database%20migration.png)
 
 ### Hasil Migration
 
-![Database]()
+![Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange7/back-end/IMG/hasil%20Migration.png)
 
 ### Permasalahan
 
-![Database]()
+![Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange7/back-end/IMG/permasalahan.png)
