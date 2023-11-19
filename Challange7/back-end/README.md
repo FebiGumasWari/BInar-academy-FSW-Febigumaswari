@@ -20,7 +20,7 @@ Tapi Akun Saya tidak Bisa Pakai Gratis di raiwaynya kak, Ternyata akun saya tida
 
 Saya Sudah Bikin Database Dan Sudah Migration Databasenya
 
-### migration Pakai postgresql
+### migration Pakai postgres
 
 ![Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange7/back-end/IMG/Ss%20database%20migration.png)
 
