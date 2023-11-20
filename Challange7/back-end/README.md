@@ -29,3 +29,6 @@ https://backeend-binar-production.up.railway.app/
 
 ![Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange7/back-end/IMG/hasil%20Migration.png)
 
+### Hasil register akun
+![Database]()
+
