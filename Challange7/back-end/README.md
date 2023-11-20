@@ -16,6 +16,11 @@ Deployment pakai Railway
 https://binar-academy-fsw-febigumaswari-production.up.railway.app/
 ```
 
+```shell
+https://backeend-binar-production.up.railway.app/
+```
+
+
 ### migration Pakai postgres
 
 ![Database](https://github.com/FebiGumasWari/BInar-academy-FSW-Febigumaswari/blob/master/Challange7/back-end/IMG/Ss%20database%20migration.png)
