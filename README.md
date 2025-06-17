@@ -68,7 +68,3 @@ Pada tantangan ketiga, saya membangun sebuah server HTTP dengan menggunakan Node
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-```
-
-Pastikan untuk mengganti `<username>` dengan nama pengguna GitHub Anda dan menambahkan informasi tambahan yang relevan untuk proyek Anda. Juga, pastikan untuk menyertakan file-file dan struktur direktori yang sesuai dengan proyek Anda. Ini hanyalah contoh dasar, Anda dapat menyesuaikannya sesuai kebutuhan Anda.
